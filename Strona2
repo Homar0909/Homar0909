@@ -1,0 +1,75 @@
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html" charset="utf-8" />
+
+<body>
+    <table border="1" style="width: 100%">
+        <tr>
+            <th></th>
+            <th><u>Podkreślenie</u></th>
+            <th><b>Pogrubienie</b></th>
+            <th><i>Kursywa</i></th>
+        </tr>
+        <tr>
+            <th><u>Podkreślenie</u></th>
+            <td align="middle">
+                <u>tekst</u><br />
+                <u>tekst</u><br />
+                <u>tekst</u>
+            </td>
+            <td align="middle">
+                <b><u>tekst</u></b><br />
+                <b><u>tekst</u></b><br />
+                <b><u>tekst</u></b><br />
+            </td>
+            <td align="middle">
+                <u><i>teskt</i></u><br />
+                <u><i>teskt</i></u><br />
+                <u><i>teskt</i></u><br />
+            </td>
+        </tr>
+        <tr>
+            <th><b>Pogrubienie</b></th>
+            <td align="middle">
+                <b><u>tekst</u></b><br />
+                <b><u>tekst</u></b><br />
+                <b><u>tekst</u></b><br />
+            </td>
+            <td align="middle">
+                <b>tekst</b><br />
+                <b>tekst</b><br />
+                <b>tekst</b><br />
+            </td>
+            <td align="middle">
+                <b><i>teskt</i></b><br />
+                <b><i>teskt</i></b><br />
+                <b><i>teskt</i></b><br />
+            </td>
+        </tr>
+        <th><i>Kursywa</i></th>
+        <td align="middle">
+            <u><i>teskt</i></u><br />
+            <u><i>teskt</i></u><br />
+            <u><i>teskt</i></u><br />
+        </td>
+        <td align="middle">
+            <b><i>teskt</i></b><br />
+            <b><i>teskt</i></b><br />
+            <b><i>teskt</i></b><br />
+        </td>
+        <td align="middle">
+            <i>teskt</i><br />
+            <i>teskt</i><br />
+            <i>teskt</i><br />
+        </td>
+
+    </table>
+    <p align="center">
+        Powrót do strony głównej<a href="http://127.0.0.1:5500/main3.html/Zadanie%203.html">
+            Odsyłacz</a>
+    </p>
+</body>
+</head>
+
+</html>
