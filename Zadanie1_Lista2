@@ -1,0 +1,58 @@
+<html>
+
+<head>
+    <center><a href="https://wz.pwr.edu.pl/"><img
+                src="https://eportal.pwr.edu.pl/pluginfile.php/304285/mod_resource/content/1/w8_info.png"></center> </a>
+</head>
+
+<body>
+    <center>
+        <table width=50%>
+
+
+
+            <tr>
+                <th align=left style="height: 50px;">Historia:</th>
+                <th align=left>Obecnie tworzą go katedry: </th>
+            </tr><br>
+
+
+
+
+            <tr>
+                <td align=justify valign=top width=50% style="background-color:greenyellow;">Wydział Zarządzania powstał 15
+                    września 2021 roku decyzją JM Rektora
+                    Politechniki Wrocławskiej po połączeniu
+                    części Wydziału Informatyki i
+                    Zarządzania ze Studium Nauk
+                    Humanistycznych. Do tej pory
+                    funkcjonował jako Wydział Informatyki i
+                    Zarządzania, łącząc dwie dyscypliny:
+                    informatykę i zarządzanie. Historyczne
+                    początki Wydziału sięgają 1 września
+                    1968 roku – rozpoczął wtedy swą
+                    działalność pod nazwą Wydziału
+                    Inżynieryjno-Ekonomicznego, by 1
+                    września 1972 roku pozostać Wydziałem
+                    Informatyki i Zarządzania na prawie 50
+                    lat.</td>
+                <td align=left valign=top width=50% style="background-color: yellow ;">
+                    <ul>
+                        <li>Katedra Badań Operacyjnych i
+                            Inteligencji Biznesowej</li>
+                        <li>Katedra Organizacji i Zarządzania</li>
+                        <li> Katedra Systemów Zarządzania i
+                            Rozwoju Organizacji </li>
+                        <li> Katedra Nauk Humanistycznych i
+                            Społecznych </li>
+                    </ul>
+                </td>
+            </tr>
+
+            <body>
+
+
+        </table>
+    </center>
+
+</html>
