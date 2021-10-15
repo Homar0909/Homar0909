@@ -1,0 +1,30 @@
+<html>
+<head> 
+<body>
+
+<table border=1 width=50%>
+  
+  <th></th>
+  <th>111</th>
+  <th>222</th>
+  <th>333</th>
+  <tr>
+        <th>111</th>
+       <td colspan="3">111</td>
+       
+     </tr>
+     <tr>
+      <th>222</th>
+      <td>222</td>
+      <td>222</td>
+      <td></td>
+    </tr><tr>
+      <th>333</th>
+      <td>333</td>
+      <td>333</td>
+      <td></td>
+    </tr>
+  </table>
+</body>
+</head> 
+</html>
