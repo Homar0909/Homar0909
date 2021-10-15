@@ -1,0 +1,71 @@
+<html>
+<style>
+    .du {
+        font-size: 30;
+        color: red;
+        text-align: left;
+    }
+</style>
+
+<head>
+    <meta http-equiv="content-type" content="text/html" charset="utf-8" />
+
+<body>
+    <table border="1" style="width: 50%">
+        <tr height="200">
+            <td align="middle" style="width: 33%">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg"
+                    style="width: 200px" /><br />
+                <p class="du">William Shakespeare</p>
+                <p align="justify" style="font-size: 20">
+                    (ur. prawdopodobnie 23 kwietnia 1564, ochrzczony 26 kwietnia 1564,
+                    w Stratfordupon-Avon, zm. 23 kwietnia/ 3 maja 1616 tamże) –
+                    angielski poeta, dramaturg, aktor. Powszechnie uważany za jednego
+                    z najwybitniejszych pisarzy literatury angielskiej oraz
+                    reformatorów teatru.
+                </p>
+                <br />
+
+                <a href="https://pl.wikipedia.org/wiki/William_Shakespeare">
+                    [wikipedia]
+                </a>
+            </td>
+            <td align="center" valign="top" style="width: 33%">
+                ...Z tym samym marsem na<br />
+                czole wydawał<br />
+                Rozkazy, aby rozgromić<br />
+                Polaków,<br />
+                Ciągnących na nas saniami<br />
+                przez lody<br />
+                <p align="left">
+                    <i>Hamlet Akt I, Scena I, Przekład<br />
+                        Stanisława Barańczaka
+                    </i>
+                </p>
+            </td>
+            <td align="left" valign="top" style="width: 33%">
+                Wybrane utwory<br />
+                <ol start="15">
+                    <li>Romeo i Julia 1595</li>
+                    <li>Juliusz Cezar 1600</li>
+                    <li>Troilus i Kresyda 1601</li>
+                    <li>Hamlet 1600</li>
+                    <li>Otello 1605</li>
+                    <li>Król Lear 1605</li>
+                    <li>Makbet Macbeth 1606</li>
+                    <li>Koriolan 1607</li>
+                    <li>Tymon Ateńczyk 1608</li>
+                </ol>
+                <br />
+                <p>
+                    Powrót do strony głównej
+                    <a href="http://127.0.0.1:5500/main3.html/Zadanie%203.html">
+                        Odsyłacz</a>
+                </p>
+            </td>
+        </tr>
+    </table>
+</body>
+</head>
+
+</html>
